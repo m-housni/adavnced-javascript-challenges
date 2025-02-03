@@ -1,5 +1,7 @@
 # Nested Relationships
 
+https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/code-challenges/urn:li:la_assessmentV2:50884370?autoSkip=true&resume=false
+
 ## Make a nested array
 
 ```js
